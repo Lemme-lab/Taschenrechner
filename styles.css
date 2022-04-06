@@ -1,0 +1,85 @@
+
+.box{
+    background-color: rgba(196, 196, 196, 0.849);
+    padding-left: 60px;
+    width: fit-content;
+    padding-right: 60px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border: solid 2px rgb(206, 0, 0);
+}
+
+
+.first_row{
+    float: both; 
+    padding-bottom: 5px;
+}
+
+.second_row{
+    float: both; 
+    padding-bottom: 5px;
+}
+
+.third_row{
+    padding-bottom: 5px;
+}
+
+.output_field_p{
+    padding-top: 20px;
+    height:50px;
+    width: 300px;
+    background-color: rgb(240, 219, 30);
+    border: solid 2px black;
+}
+
+.symbols{
+    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(202, 202, 202);
+    font-size: large;
+    color:white;
+}
+
+.delete_1{
+    border-radius: 5px;
+    height: 50px;
+    width: 60px;
+    background-color: rgb(255, 0, 0);
+    font-size: large;
+    color:white;
+}
+
+
+.delete_2{
+    border-radius: 5px;
+    height: 50px;
+    width: 60px;
+    background-color: rgb(168, 24, 24);
+    font-size: large;
+    color:white;
+}
+
+.operators{
+    border-radius: 5px;
+    height: 50px;
+    width: 60px;
+    background-color: rgb(160, 160, 160);
+    font-size: large;
+    color:white;
+}
+
+.enter{
+    border-radius: 5px;
+    height: 50px;
+    width: 125px;
+    background-color: rgb(160, 160, 160);
+    font-size: large;
+    color:white;
+}
+
+.output_field_p{
+    float:right;
+    font-size: 2rem;
+    padding-bottom: 10px;
+}
